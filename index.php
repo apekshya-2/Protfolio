@@ -206,7 +206,7 @@
                 <div class="card">
                     <div class="overly">
                         <span>Category</span>
-                        <a href="#">Web Development</a>
+                        <a href="#">Web Developers</a>
                     </div>
                     <img src="image/ph-1.png" alt="">
                 </div>
